@@ -45,6 +45,7 @@ set encoding=utf-8
 
 """"""""""""""""""""""""""""""Basic Settings"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 syntax on
+set nu
 set showmode
 set showcmd
 set laststatus=2
@@ -64,7 +65,7 @@ set undofile
 set autochdir
 "set listchars=tab:»■,trail:■
 set listchars=trail:■
-"set list
+set list
 
 """"""""""""""""""""""""""""""indent Settings"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 set shiftwidth=4
