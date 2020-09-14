@@ -82,6 +82,8 @@ set ignorecase
 set pastetoggle=<F5>
 autocmd BufWritePost $MYVIMRC source $MYVIMRC
 
+""""""""""""""""""""""""""""""search Settings"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+set hidden
 
 """"""""""""""""""""""""""""""key mapping Settings"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 noremap <Up> <Nop>
