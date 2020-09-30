@@ -51,7 +51,7 @@ set showcmd
 set laststatus=2
 set ruler
 set mouse=a
-set mouse=v
+"set mouse=v
 filetype on
 filetype indent on
 set guifont=Courier_new:h11:b:cDEFAULT
